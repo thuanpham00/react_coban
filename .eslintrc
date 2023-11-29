@@ -13,7 +13,7 @@
         "useTabs": false, // Sử dụng khoảng trắng thay vì tab.
         "singleQuote": false, // Yêu cầu sử dụng dấu ngoặc đơn thay vì dấu ngoặc kép cho chuỗi
         "printWidth": 120, // Số lượng ký tự tối đa trên mỗi dòng khi định dạng
-        "jsxSingleQuote": true // Yêu cầu sử dụng dấu ngoặc đơn thay vì dấu ngoặc kép cho JSX
+        "jsxSingleQuote": false // Yêu cầu sử dụng dấu ngoặc đơn thay vì dấu ngoặc kép cho JSX
       }
     ]
   }
